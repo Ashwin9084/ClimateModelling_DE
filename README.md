@@ -51,9 +51,6 @@ This project was developed by [Your Name](https://github.com/username).
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-
-
-
 ## Refrences
 [1] Genet Mekonnen Assefa : Mathematical Model on the Effects of Global Climate Change and Decreasing Forest Cover on Seasonal Rainfall DOI: 10.7176/MTM/9-1-03 <br />
 [2] Climate Change: Earth Surface Temperature Data: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download<br />
