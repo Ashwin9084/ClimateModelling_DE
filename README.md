@@ -38,11 +38,7 @@ In conclusion, this project demonstrates the development and validation of a dif
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
-
-## Credits
-
-This project was developed by [Your Name](https://github.com/Ashwin9084).
+1. Clone the repository: `git clone https://github.com/Ashwin9084/ClimateModelling_DE.git`
 
 ## License
 
