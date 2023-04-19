@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
 
 ## Credits
 
-This project was developed by [Your Name](https://github.com/ashwinnair9084).
+This project was developed by [Your Name](https://github.com/Ashwin9084).
 
 ## License
 
