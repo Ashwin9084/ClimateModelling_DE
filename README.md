@@ -22,11 +22,11 @@ A differential equation model is developed and validated using the preprocessed 
 
 The results of the differential equation model are presented in the following charts:
 
-![Global Temperature vs Time](./images/global_temperature_vs_time.png)
+![Global Temperature vs Time](./assets/m1.png)
 
-![Forest Area vs Time](./images/forest_area_vs_time.png)
+![Forest Area vs Time](./assets/m2.png)
 
-![Rainfall vs Time](./images/rainfall_vs_time.png)
+![Rainfall vs Time](./assets/m3.png)
 
 As you can see, the model fits well with the real-world data for global temperature, forest area, and rainfall.
 
@@ -39,13 +39,10 @@ In conclusion, this project demonstrates the development and validation of a dif
 To get started with this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/username/repo.git`
-2. Install the required packages: `pip install -r requirements.txt`
-3. Preprocess and clean the data: `python preprocess.py`
-4. Develop and validate the model: `python develop_model.py`
 
 ## Credits
 
-This project was developed by [Your Name](https://github.com/username).
+This project was developed by [Your Name](https://github.com/ashwinnair9084).
 
 ## License
 
